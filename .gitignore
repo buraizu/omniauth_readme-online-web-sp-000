@@ -2,3 +2,7 @@
 *.log
 tmp/Gemfile.lock
 Gemfile.lock
+
+CLIENT_ID=eb82d7b6d85660550211
+
+CLIENT_SECRET=4f27d895d089771c992d9b58ea89bc0903093d34
